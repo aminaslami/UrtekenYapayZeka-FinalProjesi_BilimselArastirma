@@ -2,7 +2,8 @@
 
 Öncelikle projenizi çalıştırmak ve canlıya almak için (**https://bolt.new/**) web sitesini kullanmanızı rica ediyorum.
 
-Google AI Studio kullandınız zaman, ve modelinizi Fune-tuning işlemini yaptırmak için, untumayın ki Google Drive'a bağlantısını yapınız, zaten veri yüklemek istediğiniz zaman o izini sizden istiyor, siz sadece onaylın o otomatik olarak bağlanır.
+Google AI Studio kullandınız zaman, ve modelinizi **Fune-tuning** işlemini yaptırmak için, untumayın ki **Google Drive**'a bağlantısını yapınız, zaten veri yüklemek istediğiniz zaman o izini sizden istiyor, siz sadece onaylın o otomatik olarak bağlanır.
+https://aistudio.google.com/tune
 
 **Proejnin Canlı Hali (Web Sitesi):** https://fen-firat-bilimsel-arastirma.netlify.app
 
