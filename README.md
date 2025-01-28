@@ -6,5 +6,6 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-Tuned Model Results - From AI Studio (Google)
+**Tuned Model Results - From AI Studio (Google)**
+
 ![10 - Tuned Model Results](https://github.com/user-attachments/assets/5c39fb54-6190-4bfd-852e-8e252c43c06e)
