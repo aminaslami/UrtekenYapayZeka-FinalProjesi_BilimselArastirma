@@ -1,6 +1,6 @@
 # Bilimsel Araştırma - Fırat Üniversitesi - Yüksek Lisans ve Doktora Dersi
 
-Öncelikle projenizi çalıştırmak ve canlı almak için (**https://bolt.new/**) web sitesini kullanmanızı rica ediyorum.
+Öncelikle projenizi çalıştırmak ve canlıya almak için (**https://bolt.new/**) web sitesini kullanmanızı rica ediyorum.
 
 **Proejnin Canlı Hali (Web Sitesi):** https://fen-firat-bilimsel-arastirma.netlify.app
 
