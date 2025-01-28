@@ -6,11 +6,12 @@ Google AI Studio kullandınız zaman, ve modelinizi **Fune-tuning** işlemini ya
 
 https://aistudio.google.com/tune
 
+------------------------------------------------------------------------------------------------------------
 **Proejnin Canlı Hali (Web Sitesi):** https://fen-firat-bilimsel-arastirma.netlify.app
 
 ![Screenshot (587)](https://github.com/user-attachments/assets/9b4e4c8b-7050-4a92-9b09-4f2ff4e9b462)
 
-------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 
 **Tuned Model Results - From AI Studio (Google)**
 
