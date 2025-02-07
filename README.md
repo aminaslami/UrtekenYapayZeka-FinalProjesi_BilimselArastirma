@@ -7,6 +7,7 @@ Google AI Studio kullandınız zaman, ve modelinizi **Fune-tuning** işlemini ya
 https://aistudio.google.com/tune
 
 Ayrıca şunu da belirtmek isterim ki, şuan Google Gemini API, _Gemini 1.5 Flash_, versiyonu ücretsizdir ve kullanıma açıktır.
+Sadece sınırlı token'e sahip'tır o yüzden bir projeye yaparken ve çalıştırken çok 
 
 
 ------------------------------------------------------------------------------------------------------------
